@@ -25,8 +25,8 @@ sys.stdout.reconfigure(line_buffering=True)
 sys.stderr.reconfigure(line_buffering=True)
 
 # ============= CONFIG =============
-BOT_TOKEN = os.environ.get('BOT_TOKEN', "8771905727:AAFQd3hEVc6HKfoh0fpK34FeRgIK4Vqqn88")
-BOT_OWNER = int(os.environ.get('BOT_OWNER', 1987818347))
+BOT_TOKEN = os.environ.get('BOT_TOKEN', "8697708038:AAGyO8NUHBPcwVK8x-0rqdmgYKapnVcSl20")
+BOT_OWNER = int(os.environ.get('BOT_OWNER', 8697708038))
 BOT_OWNER_STR = str(BOT_OWNER)
 
 BOT_NAME = "˹𝚩𝖊𝐒𝖙𝐂𝖍𝖊𝖆𝐓 ✘ 𝙳𝐃𝙾𝚂 𝙾𝙉𝙸𝚇˼ ♪"
